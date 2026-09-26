@@ -1,4 +1,4 @@
-# LU Decomposition 
+c
 
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
@@ -12,7 +12,9 @@ To write a program to find the LU Decomposition of a matrix.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 3. LU Decomposition of a matrix is written and verified using python programming
    
-4. 
+4. Numerical optimization
+Linear regression and other ML computations
+Reducing computational cost when the same matrix is used with multiple \(b\) vectors.
 
 ## Program:
 (i) To find the L and U matrix
